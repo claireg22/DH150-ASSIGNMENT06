@@ -36,7 +36,34 @@ The low-fidelity prototype supports the following tasks:
 6. Select product
 
 ## Wireframes and Wireflow
-![wireframe and wireflow](wireframesamazon.JPG)
+What the user was told:
+"This is a prototype for three new design features for Amazon. Please navigate through each screen, following the flow and arrows from one screen to the next after interacting with a button. The bolded rectangles and features are buttons. Use the black marker to mark which arrows you have followed. Your tasks are to 1. Find help on starting a return 2. Finding exercise equipment that is a machine and has a 5 star customer review." 
+
+![wireframe and wireflow](wireframesflowamazon.jpg)
+
+Flow Description: The flow designed above allows users to find help, search for products, and select/view products. The user can access the help page and search for help, click a help topic, or contact Amazon. When the user searches for help, they will be directed to a search results page where the user can find top results of pages containing the user's searched keywords. When the user clicks a help topic, they will be taken to the main page for the topic where they can access features to walk them through their concerns or needs. In addition, the flow designed allows the user to search for products in the search bar in the heading of the website. This will direct users to a list of search results and categories of results. If the user clicks on one of the categories, the page will refresh to show products that fit within that category. Users can also click on the filters they want to manipulate, which will drop down to show the filter features that the user can change to fit their wants and needs. When the user finishes implementing the filters, they press "Apply" to apply the filter and the screen will refresh to show the filtered results. Users can click on a product which will direct them to the product screen where they can view product details and add the item into their cart.
+
+Features Description:
+- HELP FEATURE: A "Help" button was clearly added to the header of the website so the page can be accessed at any time when navigating the website. The button leads user to a help page where there are three ways to find help: a search bar, help categories, and space to contact Amazon. 
+- ITEM CATEGORY FEATURE: After the user searches for a general product, Amazon organizes similar search results into categories which show up at the top of the page in large buttons the user can press. The general pool of search results are available bleow the category boxes for users to browse through.
+- FILTERS: Filter menu is always open on the left-side of the search results, and the type of filter is shown. If the user wants to manipulate the filter, they will click the drop-down menu and fill in their preferences. After selecting the filters, the user presses an "Apply" button to apply the filter(s) on the search results.
+
 
 ## Testing
+Iteration #1: Finding Help and starting a return
+![iteration#1](iteration1.jpg)
+user did not search for returns and just clicked the category box. Was able to find and quickly click the "Start a return" button. 
+
+Iteration #2: Narrowing search options using categories
+![iteration#2](iteration2.jpg)
+
+Iteration #3: Narrowing search options using customer review filter
+![iteration#3](iteration3.jpg)
+
+Final marked-up prototype after user interation:
+![flow test](floweruser.jpg)
 ## Reflection
+more arrows - each button should lead to a screen
+  3 options - should give three screens and did not create screens for contacting Amazon
+make the tasks more general
+separate each feature
