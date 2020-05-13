@@ -77,7 +77,7 @@ In order to improve this design, I believe the "Apply" button should be removed 
 
 
 Final marked-up prototype after user interation:
-![flow test](floweruser.jpg)
+![flow test](flowuser.jpg)
 
 ## Reflection
 The prototype testing could have been much better. While the testing was smooth in which the tester was able to clearly follow arrows from one screen to the next, one significant issue I found was that when the user tried to interact with a button on one screen, sometimes it did not lead to another screen. Therefore, the tester was more likely to click on the correct button because they saw that there was an arrow that lead it to the next page (For instance, the tester was more likely to click on the drop-down button for the correct filter because only the correct drop-down button had an arrow flowing to the next screen. If I had made flows for the other drop-down buttons, it would require the tester to really think through which button they would have to press to get their desired result). If I had made screens for each of the buttons on the screen, this would have reduced any bias for the user to pick the correct button to complete the task. In addition, I made the tasks too specific which made it easier for the user to navigate to the right pages. If I had given the tester more freedom in deciding what product or filter they wanted to set, it would increase the external validity of my design features.  
