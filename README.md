@@ -35,7 +35,7 @@ The low-fidelity prototype supports the following tasks:
 
 6. Select product
 
-## Wireframes
-## Wireflow
+## Wireframes and Wireflow
+
 ## Testing
 ## Reflection
