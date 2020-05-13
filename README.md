@@ -39,7 +39,7 @@ The low-fidelity prototype supports the following tasks:
 What the user was told:
 "This is a prototype for three new design features for Amazon. Please navigate through each screen, following the flow and arrows from one screen to the next after interacting with a button. The bolded rectangles and features are buttons. Use the black marker to mark which arrows you have followed. Your tasks are to 1. Find help on starting a return 2. Finding exercise equipment that is a machine and has a 5 star customer review." 
 
-![wireframe and wireflow](wireframesflowamazon.jpg)
+![wireframe and wireflow](wireframeflowamazon.jpg)
 
 Flow Description: The flow designed above allows users to find help, search for products, and select/view products. The user can access the help page and search for help, click a help topic, or contact Amazon. When the user searches for help, they will be directed to a search results page where the user can find top results of pages containing the user's searched keywords. When the user clicks a help topic, they will be taken to the main page for the topic where they can access features to walk them through their concerns or needs. In addition, the flow designed allows the user to search for products in the search bar in the heading of the website. This will direct users to a list of search results and categories of results. If the user clicks on one of the categories, the page will refresh to show products that fit within that category. Users can also click on the filters they want to manipulate, which will drop down to show the filter features that the user can change to fit their wants and needs. When the user finishes implementing the filters, they press "Apply" to apply the filter and the screen will refresh to show the filtered results. Users can click on a product which will direct them to the product screen where they can view product details and add the item into their cart.
 
@@ -52,18 +52,22 @@ Features Description:
 ## Testing
 Iteration #1: Finding Help and starting a return
 ![iteration#1](iteration1.jpg)
-user did not search for returns and just clicked the category box. Was able to find and quickly click the "Start a return" button. 
+The user did not search for returns or contact Amazon and just clicked the category box. The user did not go to the search results screen because she did not choose to search for help. This was not an unexpected results because the user just decided to find help by clicking the help category instead. This provides insight that if users find categories that align with what they need help with, they may be more likely to click the category box instead of searching their needs in the search bar. The tester was never confused or side-tracked and was able to find and quickly click the "Start a return" button, thereby successfully completing the task.
 
 Iteration #2: Narrowing search options using categories
 ![iteration#2](iteration2.jpg)
 
+
+
 Iteration #3: Narrowing search options using customer review filter
 ![iteration#3](iteration3.jpg)
 
+
 Final marked-up prototype after user interation:
 ![flow test](floweruser.jpg)
+
 ## Reflection
 more arrows - each button should lead to a screen
   3 options - should give three screens and did not create screens for contacting Amazon
-make the tasks more general
+make the tasks more general - too specific and made it easy to navigate
 separate each feature
